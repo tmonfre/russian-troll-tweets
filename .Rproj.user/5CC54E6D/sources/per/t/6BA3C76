@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565296744277.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "132168177",
+    "id" : "6BA3C76",
+    "lastKnownWriteTime" : 1565313909,
+    "last_content_update" : 1565313909781,
+    "path" : "~/Documents/School/Dartmouth/Sophomore Year/19X Courses/QSS 17/lab-submissions/Lab03/scripts/Lab03_qualtrics_output.R",
+    "project_path" : "scripts/Lab03_qualtrics_output.R",
+    "properties" : {
+        "cursorPosition" : "45,63",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
