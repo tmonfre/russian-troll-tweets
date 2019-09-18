@@ -2,6 +2,8 @@
 
 This plot visualizes the number of Pro-Trump tweets released per day by the Internet Research Agency, a known Russian “troll factory,” before and after the 2016 Presidential Election. The results show distinct spikes in the two months leading up to the election, and minimal activity after the election.
 
+![final-image](figures/Lab03_figure.png)
+
 ## Plot Description
 
 This graph suggests accounts controlled by the Internet Research Agency tweeted content in English during the weeks leading up to the Presidential Election in general support of then-candidate Trump. In particular, we see significant spikes surrounding prominent events that affected the Trump Campaign.
